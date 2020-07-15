@@ -4,7 +4,7 @@ Uses python to add two numbers together
 
 ## Example
 
-```
+```yaml
 name: 'Add Example'
 jobs:
   add:

@@ -10,7 +10,7 @@ jobs:
   add:
     steps:
       - name: Add Two Numbers
-        action: datatorch/add
+        action: datatorch/add@v1
         inputs:
           x: 5
           y: 5

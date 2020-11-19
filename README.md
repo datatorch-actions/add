@@ -12,6 +12,6 @@ jobs:
       - name: Add Two Numbers
         action: datatorch/add@v1
         inputs:
-          x: 5
-          y: 5
+          a: 5
+          b: 5
 ```

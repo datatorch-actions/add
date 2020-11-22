@@ -9,7 +9,7 @@
   <img alt="Open Issues" src="https://img.shields.io/github/issues/datatorch-actions/add">
 </p>
 
-## Example
+## Quick Start
 
 ```yaml
 name: 'Add Example'
